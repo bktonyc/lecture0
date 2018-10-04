@@ -1,0 +1,39 @@
+h1 {
+    text-align: center;
+    padding-bottom: 50px;
+}
+
+#bottom {
+    position: absolute;
+    bottom: 30px;
+    width: 100%;
+    text-align: center;
+}
+
+body {
+    margin-top: 20px;
+}
+
+#content {
+    width: 75%;
+    height: 800px;
+    border: 1px solid black;
+    margin-left:auto;
+    margin-right:auto;
+    text-align:center;
+    list-style-position: inside;
+    padding-bottom: 40px;
+}
+
+#content img {
+    width:60%;
+}
+
+#bio {
+    padding:40px;
+    text-align:justify;
+}
+
+.nav-tabs {
+    background-color: lightgrey;
+}
